@@ -8,5 +8,6 @@ Python(파이썬) 기반의 Application Programming 과정
 
 https://github.com/askdjango/azure-webapp-django-setup
 
+ * [Django 데모 프로젝트 - djangoisbest](https://github.com/askdjango/djangoisbest)
  * [Django 데모 프로젝트](https://github.com/askdjango/askdjango-demo)
 
