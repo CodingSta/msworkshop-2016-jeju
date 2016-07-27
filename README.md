@@ -12,14 +12,11 @@ https://github.com/askdjango/azure-webapp-django-setup
  * [Django 데모 프로젝트](https://github.com/askdjango/askdjango-demo)
 
 
-### 강사, 이진석
+## 응답하라 파이썬, 발표영상
 
- * ask@festi.kr
- * Python/Django Holic
- * Microsoft Azure MVP 2016
- * 어썸마트 CTO
- * [AskDjango 페이스북 페이지](http://facebook.com/askdjango)
- * [AskDjango 페이스북 그룹](http://facebook.com/groups/askdjango)
+ * [#1 파이썬의 특징과 Visual Studio Code 및 PTVS 소개](https://channel9.msdn.com/Events/Channel9-Korea/dev-fundamental/Visual-Studio-Code-PTVS) : 한국마이크로소프트 김영욱 기술 에반젤리스트
+ * [#2 파이썬 웹프레임워크 Django와 함께하는 라이브 코딩쇼](https://channel9.msdn.com/Events/Channel9-Korea/dev-fundamental/Django-Live-Coding-Show) : 이진석 MVP
+ * [#3 Azure WebApp으로 Django 프로젝트 배포하기](https://channel9.msdn.com/Events/Channel9-Korea/dev-fundamental/Azure-WebApp-Django?ocid=SessionsInEvent) : 이진석 MVP
 
 
 ## PyCon KR
@@ -38,4 +35,14 @@ https://github.com/askdjango/azure-webapp-django-setup
 
  * [Python Korea 페이스북 그룹](https://www.facebook.com/groups/pythonkorea)
  * [Django 페이스북 그룹](https://www.facebook.com/groups/django)
+
+
+### 강사, 이진석
+
+ * ask@festi.kr
+ * Python/Django Holic
+ * Microsoft Azure MVP 2016
+ * 어썸마트 CTO
+ * [AskDjango 페이스북 페이지](http://facebook.com/askdjango)
+ * [AskDjango 페이스북 그룹](http://facebook.com/groups/askdjango)
 
